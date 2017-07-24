@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16F73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Film" representedClassName="Film" syncable="YES">
+        <attribute name="averageVote" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="filmCover" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="filmReleaseDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="filmSummary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="filmTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nme" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="savedBookmark" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Film" positionX="-54" positionY="-9" width="128" height="150"/>
+    </elements>
+</model>

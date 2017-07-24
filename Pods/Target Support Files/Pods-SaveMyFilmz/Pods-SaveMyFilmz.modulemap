@@ -1,0 +1,6 @@
+framework module Pods_SaveMyFilmz {
+  umbrella header "Pods-SaveMyFilmz-umbrella.h"
+
+  export *
+  module * { export * }
+}
